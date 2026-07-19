@@ -495,7 +495,7 @@ export function generateTrackingContext(currentCtaId?: string, currentCtaText?: 
  * Unified clientside submit-handler that sends data to the Apps Script Gateway endpoint.
  */
 export async function submitToAppsScript(
-  formType: 'contact' | 'indicator' | 'indicator_followup',
+  formType: 'contact' | 'indicator' | 'indicator_followup' | 'visitor_event',
   submissionId: string,
   language: 'DA' | 'EN',
   formData: Record<string, any>,
