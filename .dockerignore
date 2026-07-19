@@ -1,0 +1,14 @@
+node_modules
+dist
+npm-debug.log
+firebase-debug.log
+.env
+.git
+.github
+*.ts
+!server.ts
+!vite.config.ts
+test-*.ts
+inspect-*.ts
+retrieve-*.ts
+search-*.ts

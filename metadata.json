@@ -1,0 +1,7 @@
+{
+  "name": "PeopleLab X Website",
+  "description": "The official bilingual website and commercial funnel for PeopleLab X.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
